@@ -3,17 +3,20 @@
 
 **what am I studying now?**
 1. next js
-2. gulp
-3. ~~deep~~js
+2. react
+3. deep js
+4. start TypeScript
 
 
 ### **My skills**
 |skill|ownership percentage|
 |-|--------|
-|html|80%|
+|react|20%|
+|html|70%|
 |css|70%|
 |js|45%|
 |vue js|40%|
+|gulp|50%|
 
 
 ### Coolness?
