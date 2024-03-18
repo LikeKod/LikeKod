@@ -32,6 +32,8 @@
 
 > Today I’ll write down a thought here... I wonder if it’s true that if you do something every day for 30-60 minutes for several years, a person will easily achieve success in this matter...
 
+> A funny day... I practiced English, comprehended some unthinkable things, and of course practice writing code. The Internet just isn't buzzing today... if nothing happened, where would you be?
+
 <!--
 **LikeKod/LikeKod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
