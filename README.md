@@ -34,6 +34,8 @@
 
 > A funny day... I practiced English, comprehended some unthinkable things, and of course practice writing code. The Internet just isn't buzzing today... if nothing happened, where would you be?
 
+### Good evening! There will be no access to a computer for a couple of days, but we will not stop studying and repeating. These days I’ll add here the points that I’ll study, and maybe a couple of ideas!
+1. Today we remembered prototypical inheritance in JS. Yes, quite a useful technology. It’s cool that there is extensibility... of course, don’t forget that today I read a book in English and repeated the words. Quite a productive day combined with active recreation! Good night😋
 <!--
 **LikeKod/LikeKod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
