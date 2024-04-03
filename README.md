@@ -60,6 +60,7 @@ for (let i = 0; i < 100; i++) {
 
 console.log(characters);
 '''
+3. Great evening! Today we repeat the dynamic update. I’m writing a little late, but of course I don’t forget about studying. Think about the difference between discipline and motivation😋
 <!--
 **LikeKod/LikeKod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
