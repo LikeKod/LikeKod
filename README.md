@@ -60,7 +60,29 @@ for (let i = 0; i < 100; i++) {
 
 console.log(characters);
 '''
+
 3. Great evening! Today we repeat the dynamic update. I’m writing a little late, but of course I don’t forget about studying. Think about the difference between discipline and motivation😋
+
+4. 
+Hello! We continue to study the advantages of prototypes. Today, flexibility and modularity are the order of the day. In general, take a look at the example ✌️
+
+function Mage(name, health, spell) {
+  Character.call(this, name, health);
+  this.spell = spell;
+}
+
+Mage.prototype = Object.create(Character.prototype);
+Mage.prototype.constructor = Mage;
+
+Mage.prototype.castSpell = function(target) {
+  console.log(this.name + " произносит заклинание " + this.spell + " на " + target + ".");
+};
+
+let mage = new Mage("Маг", 80, "Огненный шар");
+
+mage.attack("Монстр");  
+mage.castSpell("Враг"); 
+
 <!--
 **LikeKod/LikeKod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
