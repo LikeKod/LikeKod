@@ -83,6 +83,8 @@ let mage = new Mage("Маг", 80, "Огненный шар");
 mage.attack("Монстр");  
 mage.castSpell("Враг"); 
 
+5. Great day! Tomorrow I will move on to more difficult practice. We will write code using object prototypes. I think I'll be able to post the sketches tomorrow. Just like that... Should I take care of business? Have a nice evening, buddy💪
+
 <!--
 **LikeKod/LikeKod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
