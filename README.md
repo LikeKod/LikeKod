@@ -87,6 +87,7 @@ mage.castSpell("Враг");
 
 6. Cool day! Today I mostly rested and practiced. Repeated Vue js. We were talking about styles and classes. Back to code tomorrow! Good luck guys ✌️
 7. Interesting day! Lots of interesting experiences. It is worth thinking about hardness and softness. What is better at a distance...
+8. Anger! Force! Breaking point... To be reborn, you must die...
 <!--
 **LikeKod/LikeKod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
