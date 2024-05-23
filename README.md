@@ -39,9 +39,7 @@
 2. Good evening! Today we discussed the topic of working with memory when using methods and prototypes in a constructor. Yes, it is useful to remember such information. And
  it will even be useful to me! p.s. I'll attach some code for fun.
 
-
-
-'''
+```
 
 function Character(name, health) {
   this.name = name;
@@ -59,13 +57,13 @@ for (let i = 0; i < 100; i++) {
 }
 
 console.log(characters);
-'''
+```
 
 3. Great evening! Today we repeat the dynamic update. I’m writing a little late, but of course I don’t forget about studying. Think about the difference between discipline and motivation😋
 
-4. 
-Hello! We continue to study the advantages of prototypes. Today, flexibility and modularity are the order of the day. In general, take a look at the example ✌️
+4. Hello! We continue to study the advantages of prototypes. Today, flexibility and modularity are the order of the day. In general, take a look at the example ✌️
 
+```
 function Mage(name, health, spell) {
   Character.call(this, name, health);
   this.spell = spell;
@@ -81,7 +79,8 @@ Mage.prototype.castSpell = function(target) {
 let mage = new Mage("Маг", 80, "Огненный шар");
 
 mage.attack("Монстр");  
-mage.castSpell("Враг"); 
+mage.castSpell("Враг");
+```
 
 5. Great day! Tomorrow I will move on to more difficult practice. We will write code using object prototypes. I think I'll be able to post the sketches tomorrow. Just like that... Should I take care of business? Have a nice evening, buddy💪
 
