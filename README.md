@@ -39,6 +39,7 @@
 2. Good evening! Today we discussed the topic of working with memory when using methods and prototypes in a constructor. Yes, it is useful to remember such information. And
  it will even be useful to me! p.s. I'll attach some code for fun.
 
+Kind! So the Internet was turned off. I wrote the code today. I remembered the basics of react-query. Maybe it's time to put together a good portfolio, design it beautifully. In general, I want to swear harshly
 ```
 
 function Character(name, health) {
