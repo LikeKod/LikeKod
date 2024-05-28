@@ -92,6 +92,9 @@ mage.castSpell("Враг");
 10. 
 
 > ¡Buenas noches niños y niñas! Hoy se apagó Internet, así que actualicé un poco la teoría. Mañana editaré este archivo si vuelve Internet😋 Por cierto, tengo algunas noticias y pensamientos interesantes😁 ¡Quizás incluso los veas aquí algún día!
+
+
+> Today I was working on connecting to the Internet. It should be done the day after tomorrow, then I’ll push it to the repository. I write code little by little, more to maintain knowledge. We need to think and decide, continue writing code and start working on something interesting. Or shift your focus to another area. Just questions, just solutions... I don’t really feel like swearing today 😋
 <!--
 **LikeKod/LikeKod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
