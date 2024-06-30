@@ -96,8 +96,10 @@ mage.castSpell("Враг");
 
 > Today I was working on connecting to the Internet. It should be done the day after tomorrow, then I’ll push it to the repository. I write code little by little, more to maintain knowledge. We need to think and decide, continue writing code and start working on something interesting. Or shift your focus to another area. Just questions, just solutions... I don’t really feel like swearing today 😋
 > Hey! Refreshing my knowledge of css and html. Tomorrow there will be Internet. There are, of course, questions about the relevance of all this. I think I'll take a closer look at typescript. Okay, we'll see tomorrow. Good evening!
->A week of mistakes or stupid accidents? Interesting things, of course, but there is more awareness and knowledge. I think I’ll fix the nonsense here. The main thing is concentration and attitude! Forward to achievements! Have a good evening
-
+> A week of mistakes or stupid accidents? Interesting things, of course, but there is more awareness and knowledge. I think I’ll fix the nonsense here. The main thing is concentration and attitude! Forward to achievements! Have a good evening
+> So to speak! It's a wonderful day! Interesting emotions, everything is just great. I just didn’t write the code today, because... spent time with family and took a break from the computer... Tomorrow we'll dive into writing code with renewed vigor! We discover new ideas, implement great plans and...We find something that may or may not be there. And remember once and for all, it’s much worse to regret something you haven’t done than to regret something else.
+Hooray!
+> 
 <!--
 **LikeKod/LikeKod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
